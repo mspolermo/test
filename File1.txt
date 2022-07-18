@@ -1,7 +1,7 @@
-untesting line
+testing line
 commit test
 456
 789.
 Add Line
 new branch line
-new lone for GUI
+new line for GUI
